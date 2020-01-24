@@ -1,0 +1,15 @@
+{
+  "name": "gearing-hcr2",
+  "version": "1.0.0",
+  "description": "A discord bot that will help the HCR2 player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GuillaumeMnt",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
