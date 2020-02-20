@@ -1,3 +1,5 @@
+const log = require("./log");
+
 const configuration = {
     regular: {
         max: 15,
@@ -34,9 +36,11 @@ function numberWithCommas(x) {
 detail = (gearing, buyCoeff, sellCoeff) => {
 
     if (gearing > 0) {
-        return `Tu dois récolter ${numberWithCommas(gearing)} pièces d'améliorations, cela représente ${numberWithCommas(gearing * buyCoeff)} engrenages pour avoir l'amélioration max`;
+        return `Tu dois récolter ${numberWithCommas(gearing)} pièces d'améliorations, cela représente ${numberWithCommas(gearing * buyCoeff)} engrenages pour avoir l'amélioration max\n\n${log.randomThought()}`;
+    } else if (gearing === 0) {
+        return `Tu as pile ce qu'il te faut pour être au max\n\n${log.randomThought()}`
     } else {
-        return `Tu as ${numberWithCommas(-gearing)} pièces d'améliorations en trop, tu peux récupérer ${numberWithCommas(-gearing * sellCoeff)} engrenages`;
+        return `Tu as ${numberWithCommas(-gearing)} pièces d'améliorations en trop, tu peux récupérer ${numberWithCommas(-gearing * sellCoeff)} engrenages\n\n${log.randomThought()}`;
     }
 }
 

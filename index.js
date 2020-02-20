@@ -42,7 +42,12 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     message: 'Pong!'
                 });
                 break;
-
+            case 'furax':
+                bot.sendMessage({
+                    to: channelID,
+                    message: `Ouah ! Quelle danse magnifique ! Laisse un like ! https://www.youtube.com/watch?v=OYbZSQx4Q_c&feature=youtu.be`
+                });
+                break;
             /// -- CLASSIC -- ///
             case 'classique':
             case 'common':
