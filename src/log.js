@@ -2,7 +2,6 @@ const fs = require('fs');
 
 const thoughtArray = [
     'La mini jeep est sous-côté',
-    'Tu nous manques Morro',
     `One, Two, Three, viva l'... French Power !`,
     'Hacking in progress',
     `Qu'est ce qui est jaune et qui attend ?`,
