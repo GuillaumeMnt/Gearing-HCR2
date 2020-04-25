@@ -82,13 +82,12 @@ OSS 117 : D'accord, faisons comme ça, ravi de t'avoir revu l'ami.`,
 - Marie-Thérèse, ne jurez pas !`,
     `Foutez-moi le camp ou j’te tape !`,
     `Monseignor, c’est l’or…Il est l’or, l’or de se réveiller…Monseignor, il est huit or !`,
-    `C’est pas compliqué de parler ch’timi. Par exemple, nous autres, on ne dit pas ‘‘pardonnez-moi, je n’ai pas bien saisi le sens de votre question’’, on dit ‘‘Heiiiin ?’’`.
     
     `Driss : Elle a écrit : ”Je viens à Paris la semaine prochaine, appelle-moi...”, 3 petits points.
 Vous comprenez ce que ça veut dire?
 Philippe : C’est bon, ça ?
 Driss : Bien sûr que c’est bon 3 petits points ! 1 point, 2 points, 3 points: 3 points, elle veut pécho!`,
-    `Pas d’bras, pas d’chocolat !`.
+    `Pas d’bras, pas d’chocolat !`,
     
     `Ca ? c'est mon gri-gri c'est un sorcier hawaïen qui me l'a donné, c'est une vraie fausse dent de requin blanc faite en résine.`,
     `Qu'est-ce que tu as fait à tes cheveux ? On dirait un pompier !`,
